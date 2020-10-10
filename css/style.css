@@ -117,21 +117,23 @@ li {
 }
 
 .logo-title {
-  font-family: "Cormorant Garamond", serif;
-  font-size: 88px;
+  /* font-family: "Cormorant Garamond", serif; */
+  font-size: 100px;
   font-weight: normal;
   line-height: 1;
   display: block;
   letter-spacing: .1em;
-  color: #f39ac7;
+  font-weight:bold;
+  color: rgb(110, 102, 81);
 }
 
 .logo-text {
-  font-size: 14px;
+  font-size: 24px;
   display: block;
   margin-top: 10px;
   text-align: center;
   letter-spacing: .2em;
+  font-weight:bold;
 }
 
 /*--------------------------------
