@@ -17,7 +17,8 @@ body {
 
 a {
   text-decoration: none;
-  color: #f0ce0c;
+  color: rgb(201, 188, 163);
+  font-weight:bold;
 }
 
 a img {
