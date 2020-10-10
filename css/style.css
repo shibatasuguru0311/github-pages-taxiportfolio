@@ -273,6 +273,10 @@ li {
 .skill-section .inner {
   max-width: 1000px;
 }
+.skill-image {
+  width:30px;
+  height:30px;
+}
 
 .skill-list {
   display: flex;
